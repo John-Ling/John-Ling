@@ -1,5 +1,6 @@
 Hello
 I'm John.
-I'm a self-taught developer and have been learning for over 4 years.
-While most of my work is at the computer, I work with electronics, CAD and 3D printing to add more to my projects.
-I build whatever I want, whenever I want.
+I'm a self-taught developer with an current interest in security.
+Not quite sure what field I want to do yet but I'm working on it.
+
+Thanks for coming to my page. Hope you find my projects interesting. 
